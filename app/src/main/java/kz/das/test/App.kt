@@ -1,4 +1,4 @@
-package kz.das.test.utils
+package kz.das.test
 
 import android.app.Application
 import kz.das.test.di.mainModule
